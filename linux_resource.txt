@@ -52,6 +52,7 @@ https://www.ibm.com/developerworks/cn/linux/l-cn-gdbmp/index.html
 
 GDB Pocket Reference
 http://ishare.iask.sina.com.cn/f/7187993.html
+http://www.kgdb.info/
 
 linux kernel
 http://www.win.tue.nl/~aeb/linux/lk/lk-5.html
