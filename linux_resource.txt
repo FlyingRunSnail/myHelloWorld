@@ -44,6 +44,11 @@ http://www.cnblogs.com/linucos/archive/2013/03/20/2971287.html
 *https://sourceware.org/gdb/wiki/How%20gdb%20loads%20symbol%20files
 https://sourceware.org/gdb/wiki/Internals
 
+GDB porting
+https://gcc.gnu.org/wiki/cauldron2013?action=AttachFile&do=get&target=port-gdb-tic6x-qi.pdf
+http://www.embecosm.com/appnotes/ean3/embecosm-howto-gdb-porting-ean3-issue-2.pdf
+http://www.math.utah.edu/docs/info/gdbint_8.html
+
 GDB∂‡œﬂ≥Ã
 http://www.oschina.net/question/565065_68060
 
