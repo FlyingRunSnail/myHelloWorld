@@ -75,6 +75,9 @@ http://blog.csdn.net/u010143458/article/details/47723751
 http://kernel.meizu.com/linux-signal.html
 https://yq.aliyun.com/articles/8873
 
+mips linux kernel porting
+https://www.linux-mips.org/wiki/Linux/MIPS_Porting_Guide
+
 把握linux内核设计思想
 http://blog.csdn.net/gentleliu/article/category/5690079
 
