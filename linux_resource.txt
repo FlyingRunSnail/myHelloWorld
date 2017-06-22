@@ -44,6 +44,11 @@ http://www.cnblogs.com/linucos/archive/2013/03/20/2971287.html
 *https://sourceware.org/gdb/wiki/How%20gdb%20loads%20symbol%20files
 https://sourceware.org/gdb/wiki/Internals
 
+GDB porting
+https://gcc.gnu.org/wiki/cauldron2013?action=AttachFile&do=get&target=port-gdb-tic6x-qi.pdf
+http://www.embecosm.com/appnotes/ean3/embecosm-howto-gdb-porting-ean3-issue-2.pdf
+http://www.math.utah.edu/docs/info/gdbint_8.html
+
 GDB多线程
 http://www.oschina.net/question/565065_68060
 
@@ -69,6 +74,9 @@ http://cs-pub.bu.edu/fac/richwest/cs591_w1/notes/wk3_pt2.PDF
 http://blog.csdn.net/u010143458/article/details/47723751
 http://kernel.meizu.com/linux-signal.html
 https://yq.aliyun.com/articles/8873
+
+mips linux kernel porting
+https://www.linux-mips.org/wiki/Linux/MIPS_Porting_Guide
 
 把握linux内核设计思想
 http://blog.csdn.net/gentleliu/article/category/5690079
