@@ -212,6 +212,7 @@ memory manage
 https://www.ibm.com/developerworks/cn/linux/l-linux-slab-allocator/
 http://www.uml.org.cn/embeded/201210165.asp
 http://blog.csdn.net/goodluckwhh/article/details/9970845    // 内存管理系列
+http://www.tldp.org/HOWTO/KernelAnalysis-HOWTO-7.html
 
 
 圈复杂度
