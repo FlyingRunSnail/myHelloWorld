@@ -74,6 +74,7 @@ http://cs-pub.bu.edu/fac/richwest/cs591_w1/notes/wk3_pt2.PDF
 http://blog.csdn.net/u010143458/article/details/47723751
 http://kernel.meizu.com/linux-signal.html
 https://yq.aliyun.com/articles/8873
+http://blog.csdn.net/walkingman321/article/details/6133171
 
 mips linux kernel porting
 https://www.linux-mips.org/wiki/Linux/MIPS_Porting_Guide
