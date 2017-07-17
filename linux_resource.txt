@@ -278,3 +278,4 @@ http://www.cnblogs.com/yanghuahui/p/3751826.html
 
 lxc
 https://linuxcontainers.org/lxc/getting-started/
+https://docs.oracle.com/cd/E37670_01/E37355/html/ol_control_containers.html
