@@ -275,3 +275,6 @@ cgroups
 https://access.redhat.com/documentation/en-US/Red_Hat_Enterprise_Linux/6/html/Resource_Management_Guide/sec-Relationships_Between_Subsystems_Hierarchies_Control_Groups_and_Tasks.html
 https://www.ibm.com/developerworks/cn/linux/1506_cgroup/index.html
 http://www.cnblogs.com/yanghuahui/p/3751826.html
+
+lxc
+https://linuxcontainers.org/lxc/getting-started/
