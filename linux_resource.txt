@@ -280,3 +280,6 @@ lxc
 https://linuxcontainers.org/lxc/getting-started/
 https://docs.oracle.com/cd/E37670_01/E37355/html/ol_control_containers.html
 http://docs.oracle.com/cd/E37670_01/E37355/html/ol_about_cgroups.html
+
+AARCH64 EXCEPTION
+http://blog.csdn.net/qianlong4526888/article/details/27695583
