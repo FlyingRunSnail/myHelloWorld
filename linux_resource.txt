@@ -283,3 +283,6 @@ http://docs.oracle.com/cd/E37670_01/E37355/html/ol_about_cgroups.html
 
 AARCH64 EXCEPTION
 http://blog.csdn.net/qianlong4526888/article/details/27695583
+
+build cross compile tool
+http://blog.chinaunix.net/uid-26817882-id-5244888.html
