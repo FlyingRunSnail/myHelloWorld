@@ -293,3 +293,6 @@ http://www.cnblogs.com/tolimit/p/5435068.html
 https://www.kernel.org/doc/gorman/html/understand/understand016.html
 https://www.kernel.org/doc/gorman/html/understand
 http://www.wowotech.net/linux_kenrel/overcommit.html
+
+printf's story
+http://www.cnblogs.com/fanzhidongyzby/p/3519838.html
