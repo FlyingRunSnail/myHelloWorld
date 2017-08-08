@@ -225,6 +225,7 @@ http://blog.csdn.net/goodluckwhh/article/details/9970845    // 内存管理系列
 http://www.tldp.org/HOWTO/KernelAnalysis-HOWTO-7.html
 http://www.makelinux.net/ldd3/chp-15-sect-1
 http://blog.csdn.net/do2jiang/article/details/6423088
+http://ilinuxkernel.com/?p=1013
 
 圈复杂度
 http://www.cnblogs.com/techroad4ca/archive/2015/12/02/5012406.html
