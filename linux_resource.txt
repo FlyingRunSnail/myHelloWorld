@@ -297,3 +297,6 @@ http://www.wowotech.net/linux_kenrel/overcommit.html
 
 printf's story
 http://www.cnblogs.com/fanzhidongyzby/p/3519838.html
+
+yocto
+http://www.yoctoproject.org/docs/1.7.1/mega-manual/mega-manual.html
