@@ -300,3 +300,6 @@ http://www.cnblogs.com/fanzhidongyzby/p/3519838.html
 
 yocto
 http://www.yoctoproject.org/docs/1.7.1/mega-manual/mega-manual.html
+
+linux kernel analysis
+http://vdisk.weibo.com/s/BZZ24CAiLg5jZ
