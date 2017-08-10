@@ -305,4 +305,8 @@ linux kernel analysis
 http://vdisk.weibo.com/s/BZZ24CAiLg5jZ
 
 ubuntu qemu build enviroment
-http://www.linuxidc.com/Linux/2015-07/119764.htm
+http://www.linuxidc.com/Linux/2015-07/119764.html
+
+80386 cpu & asm
+http://blog.csdn.net/jltxgcy/article/category/1337702
+
