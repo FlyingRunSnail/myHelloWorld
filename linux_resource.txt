@@ -303,3 +303,6 @@ http://www.yoctoproject.org/docs/1.7.1/mega-manual/mega-manual.html
 
 linux kernel analysis
 http://vdisk.weibo.com/s/BZZ24CAiLg5jZ
+
+ubuntu qemu build enviroment
+http://www.linuxidc.com/Linux/2015-07/119764.htm
