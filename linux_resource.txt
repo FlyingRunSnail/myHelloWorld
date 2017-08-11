@@ -310,3 +310,5 @@ http://www.linuxidc.com/Linux/2015-07/119764.html
 80386 cpu & asm
 http://blog.csdn.net/jltxgcy/article/category/1337702
 
+linux swap & zram
+http://www.tinylab.org/linux-swap-and-zramfs/
