@@ -321,3 +321,7 @@ https://www.ibm.com/developerworks/library/l-shobj/index.html
 linuxatemyram
 http://www.linuxatemyram.com/
 http://www.linuxatemyram.com/play.html
+
+docker
+http://www.infoq.com/cn/articles/docker-kernel-knowledge-namespace-resource-isolation
+http://www.infoq.com/cn/articles/docker-kernel-knowledge-cgroups-resource-isolation/
