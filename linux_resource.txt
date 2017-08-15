@@ -328,3 +328,6 @@ http://www.infoq.com/cn/articles/docker-kernel-knowledge-cgroups-resource-isolat
 
 kernel thread
 http://blog.csdn.net/yiyeguzhou100/article/details/53126626
+
+csdn linux
+http://lib.csdn.net/base/linux
