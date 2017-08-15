@@ -228,6 +228,7 @@ http://blog.csdn.net/do2jiang/article/details/6423088
 http://ilinuxkernel.com/?p=1013
 https://www.kernel.org/doc/gorman/html/understand/understand009.html
 http://blog.csdn.net/kickxxx/article/details/8835733
+http://blog.chinaunix.net/uid-27177626-id-4197018.html
 
 »¶∏¥‘”∂»
 http://www.cnblogs.com/techroad4ca/archive/2015/12/02/5012406.html
@@ -342,3 +343,5 @@ http://kernel.taobao.org/index.php?title=%E9%A6%96%E9%A1%B5
 
 numa
 https://www.ibm.com/developerworks/cn/linux/l-numa/
+
+
