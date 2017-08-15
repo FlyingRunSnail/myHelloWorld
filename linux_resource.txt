@@ -325,3 +325,6 @@ http://www.linuxatemyram.com/play.html
 docker
 http://www.infoq.com/cn/articles/docker-kernel-knowledge-namespace-resource-isolation
 http://www.infoq.com/cn/articles/docker-kernel-knowledge-cgroups-resource-isolation/
+
+kernel thread
+http://blog.csdn.net/yiyeguzhou100/article/details/53126626
