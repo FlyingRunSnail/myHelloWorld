@@ -335,3 +335,6 @@ http://lib.csdn.net/base/linux
 
 redhat tune memory
 https://access.redhat.com/documentation/zh-CN/Red_Hat_Enterprise_Linux/6/html/Performance_Tuning_Guide/s-memory-tunables.html
+
+kernel.taobao.org
+http://kernel.taobao.org/index.php?title=%E9%A6%96%E9%A1%B5
