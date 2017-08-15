@@ -338,3 +338,6 @@ https://access.redhat.com/documentation/zh-CN/Red_Hat_Enterprise_Linux/6/html/Pe
 
 kernel.taobao.org
 http://kernel.taobao.org/index.php?title=%E9%A6%96%E9%A1%B5
+
+numa
+https://www.ibm.com/developerworks/cn/linux/l-numa/
