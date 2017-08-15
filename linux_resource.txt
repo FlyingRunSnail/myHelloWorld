@@ -344,4 +344,5 @@ http://kernel.taobao.org/index.php?title=%E9%A6%96%E9%A1%B5
 numa
 https://www.ibm.com/developerworks/cn/linux/l-numa/
 
-
+out of memory analysis
+http://www.linuxdevcenter.com/pub/a/linux/2006/11/30/linux-out-of-memory.html
