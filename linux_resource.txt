@@ -227,6 +227,7 @@ http://www.makelinux.net/ldd3/chp-15-sect-1
 http://blog.csdn.net/do2jiang/article/details/6423088
 http://ilinuxkernel.com/?p=1013
 https://www.kernel.org/doc/gorman/html/understand/understand009.html
+http://blog.csdn.net/kickxxx/article/details/8835733
 
 »¶∏¥‘”∂»
 http://www.cnblogs.com/techroad4ca/archive/2015/12/02/5012406.html
