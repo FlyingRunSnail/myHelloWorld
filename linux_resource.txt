@@ -347,3 +347,4 @@ https://www.ibm.com/developerworks/cn/linux/l-numa/
 out of memory analysis
 http://www.linuxdevcenter.com/pub/a/linux/2006/11/30/linux-out-of-memory.html
 http://blog.chinaunix.net/uid-14528823-id-4131411.html
+http://www.oracle.com/technetwork/articles/servers-storage-dev/oom-killer-1911807.html
