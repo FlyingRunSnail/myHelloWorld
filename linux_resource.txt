@@ -346,3 +346,4 @@ https://www.ibm.com/developerworks/cn/linux/l-numa/
 
 out of memory analysis
 http://www.linuxdevcenter.com/pub/a/linux/2006/11/30/linux-out-of-memory.html
+http://blog.chinaunix.net/uid-16759545-id-4854386.html
