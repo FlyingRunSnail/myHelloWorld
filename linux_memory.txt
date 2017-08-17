@@ -1,0 +1,10 @@
+base knowledge for linux memory
+http://linuxperf.com/?cat=7
+http://www.92to.com/bangong/2016/09-02/9886749.html
+http://www.dataguru.cn/article-11489-1.html
+http://www.penglixun.com/tech/system/linux_cache_discovery.html
+http://www.tceic.com/lg1i6i7527284h73l2425038.html
+http://www.uml.org.cn/embeded/201208071.asp
+http://www.infoq.com/cn/articles/docker-kernel-knowledge-cgroups-resource-isolation
+http://www.linuxidc.com/Linux/2015-11/125063.htm
+http://www.cnblogs.com/probemark/p/5860367.html
