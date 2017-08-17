@@ -350,6 +350,7 @@ http://blog.chinaunix.net/uid-14528823-id-4131411.html
 http://www.oracle.com/technetwork/articles/servers-storage-dev/oom-killer-1911807.html
 http://blog.chinaunix.net/uid-20617871-id-5752982.html
 http://blog.csdn.net/kickxxx/article/details/50337647
+https://serverfault.com/questions/515125/oom-despite-available-memory-cache/856010#856010
 
 why there is no normal zone on x86_64 machine
 https://utcc.utoronto.ca/~cks/space/blog/linux/KernelMemoryZones

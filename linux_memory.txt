@@ -10,3 +10,6 @@ http://www.linuxidc.com/Linux/2015-11/125063.htm
 http://www.cnblogs.com/probemark/p/5860367.html
 http://www.xml.com/ldd/chapter/book/ch07.html
 http://careers.directi.com/display/tu/Understanding+and+optimizing+Memory+utilization
+
+aarch64 
+http://blog.csdn.net/ic_soc_arm_robin/article/details/32709143
