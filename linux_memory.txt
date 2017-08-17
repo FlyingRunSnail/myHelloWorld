@@ -8,3 +8,4 @@ http://www.uml.org.cn/embeded/201208071.asp
 http://www.infoq.com/cn/articles/docker-kernel-knowledge-cgroups-resource-isolation
 http://www.linuxidc.com/Linux/2015-11/125063.htm
 http://www.cnblogs.com/probemark/p/5860367.html
+http://www.xml.com/ldd/chapter/book/ch07.html
