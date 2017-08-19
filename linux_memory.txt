@@ -13,3 +13,7 @@ http://careers.directi.com/display/tu/Understanding+and+optimizing+Memory+utiliz
 
 aarch64 
 http://blog.csdn.net/ic_soc_arm_robin/article/details/32709143
+
+
+x86 physical memory layout
+http://wiki.osdev.org/Memory_Map_%28x86%29
