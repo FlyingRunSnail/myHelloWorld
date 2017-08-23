@@ -17,3 +17,6 @@ http://blog.csdn.net/ic_soc_arm_robin/article/details/32709143
 
 x86 physical memory layout
 http://wiki.osdev.org/Memory_Map_%28x86%29
+
+memory reclaim
+http://www.cnblogs.com/Leo_wl/p/5402115.html
