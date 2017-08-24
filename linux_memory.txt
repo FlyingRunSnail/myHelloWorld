@@ -20,3 +20,4 @@ http://wiki.osdev.org/Memory_Map_%28x86%29
 
 memory reclaim
 http://www.cnblogs.com/Leo_wl/p/5402115.html
+https://www.kernel.org/doc/gorman/html/understand/understand013.html
