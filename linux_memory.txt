@@ -11,6 +11,7 @@ http://www.cnblogs.com/probemark/p/5860367.html
 http://www.xml.com/ldd/chapter/book/ch07.html
 http://careers.directi.com/display/tu/Understanding+and+optimizing+Memory+utilization
 http://www.cnblogs.com/zhaoyl/p/3695517.html
+https://linux-mm.org/LinuxMMInternals
 
 aarch64 
 http://blog.csdn.net/ic_soc_arm_robin/article/details/32709143
