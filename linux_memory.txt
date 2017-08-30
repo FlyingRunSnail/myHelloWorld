@@ -13,6 +13,7 @@ http://careers.directi.com/display/tu/Understanding+and+optimizing+Memory+utiliz
 http://www.cnblogs.com/zhaoyl/p/3695517.html
 https://linux-mm.org/LinuxMMInternals
 http://www.oracle.com/technetwork/articles/servers-storage-dev/oom-killer-1911807.html
+http://www.dba-oracle.com/t_tuning_linux_kernel_2_6_oracle.htm
 
 aarch64 
 http://blog.csdn.net/ic_soc_arm_robin/article/details/32709143
