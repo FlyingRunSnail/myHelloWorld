@@ -15,6 +15,7 @@ https://linux-mm.org/LinuxMMInternals
 http://www.oracle.com/technetwork/articles/servers-storage-dev/oom-killer-1911807.html
 http://www.dba-oracle.com/t_tuning_linux_kernel_2_6_oracle.htm
 http://blog.chinaunix.net/uid-27177626-id-4197018.html
+http://blog.chinaunix.net/uid-28362602-id-3425836.html
 
 aarch64 
 http://blog.csdn.net/ic_soc_arm_robin/article/details/32709143
