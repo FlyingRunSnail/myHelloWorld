@@ -357,3 +357,7 @@ https://utcc.utoronto.ca/~cks/space/blog/linux/KernelMemoryZones
 
 ilinuxkernel
 http://ilinuxkernel.com/?cat=3
+
+
+misc
+http://sysprogs.com/VisualKernel/tutorials/samples/procfile/
