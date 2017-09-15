@@ -36,3 +36,7 @@ http://www.cnblogs.com/tolimit/p/5435068.html
 
 memory and cgroup
 https://www.mjmwired.net/kernel/Documentation/cgroups/memory.txt
+
+
+linux cache
+https://www.ibm.com/developerworks/cn/linux/l-cache/
