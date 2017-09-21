@@ -363,3 +363,4 @@ misc
 http://sysprogs.com/VisualKernel/tutorials/samples/procfile/
 http://datahunter.org/
 https://www.linux-mips.org/wiki/Main_Page
+http://blog.csdn.net/shichaog/article/details/40218763
