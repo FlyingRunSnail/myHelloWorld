@@ -368,3 +368,5 @@ http://blog.csdn.net/shichaog/article/details/40218763
 
 memory barrier
 https://stackoverflow.com/questions/19965076/gcc-memory-barrier-sync-synchronize-vs-asm-volatile-memory
+https://en.wikipedia.org/wiki/Memory_barrier
+
