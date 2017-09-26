@@ -44,3 +44,5 @@ http://blog.csdn.net/shanshanpt/article/details/39258373
 http://blog.sina.com.cn/s/blog_4ce2cdfa0100ajxx.html
 http://blog.chinaunix.net/uid-25739055-id-4095797.html
 
+xiebaoyou csdn
+http://blog.chinaunix.net/xmlrpc.php?r=blog/index&uid=25845340&year=2011&pattern=list&page=6
