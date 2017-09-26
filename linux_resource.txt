@@ -364,3 +364,7 @@ http://sysprogs.com/VisualKernel/tutorials/samples/procfile/
 http://datahunter.org/
 https://www.linux-mips.org/wiki/Main_Page
 http://blog.csdn.net/shichaog/article/details/40218763
+
+
+memory barrier
+https://stackoverflow.com/questions/19965076/gcc-memory-barrier-sync-synchronize-vs-asm-volatile-memory
