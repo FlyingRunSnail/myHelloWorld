@@ -19,3 +19,6 @@ https://segmentfault.com/a/1190000008125359
 cgroup arch analysis 
 http://www.cnblogs.com/arnoldlu/p/6208443.html
 https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/6/html/resource_management_guide/ch01
+
+name space
+https://segmentfault.com/a/1190000006908272
