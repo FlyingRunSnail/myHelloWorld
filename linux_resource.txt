@@ -374,3 +374,5 @@ https://en.wikipedia.org/wiki/Memory_barrier
 
 study
 https://www.shiyanlou.com/
+http://www.haifux.org/
+
