@@ -23,6 +23,7 @@ https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/6/html/re
 name space
 https://segmentfault.com/a/1190000006908272
 https://segmentfault.com/a/1190000009732550
+https://www.toptal.com/linux/separation-anxiety-isolating-your-system-with-linux-namespaces
 
 remount /proc
 http://www.infoq.com/cn/articles/docker-kernel-knowledge-namespace-resource-isolation
