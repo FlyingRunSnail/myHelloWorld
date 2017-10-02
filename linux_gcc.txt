@@ -1,2 +1,3 @@
 builtin
 http://blog.csdn.net/jasonchen_gbd/article/details/44948523
+https://www.ibm.com/developerworks/cn/linux/l-gcc-hacks/
