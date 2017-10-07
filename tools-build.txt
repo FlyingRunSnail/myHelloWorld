@@ -1,2 +1,3 @@
 #cross compile tools build
 http://blog.chinaunix.net/uid-8107907-id-2034159.html
+http://preshing.com/20141119/how-to-build-a-gcc-cross-compiler/
