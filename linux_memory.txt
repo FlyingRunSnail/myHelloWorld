@@ -20,6 +20,7 @@ http://www.tldp.org/LDP/tlk/mm/memory.html
 http://www.linuxidc.com/Linux/2012-05/60902.htm
 http://blog.csdn.net/bingqingsuimeng/article/details/52084184
 http://blog.csdn.net/gatieme/article/details/52384965
+http://blog.csdn.net/gatieme/article/category/6393814/2
 
 aarch64 
 http://blog.csdn.net/ic_soc_arm_robin/article/details/32709143
