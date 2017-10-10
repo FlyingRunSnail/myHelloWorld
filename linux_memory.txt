@@ -52,3 +52,7 @@ http://blog.chinaunix.net/xmlrpc.php?r=blog/index&uid=25845340&year=2011&pattern
 kmemcheck
 http://blog.csdn.net/lishenglong666/article/details/7847380
 https://www.ibm.com/developerworks/cn/linux/l-cn-kmemcheck/
+
+
+oom analysis
+https://serverfault.com/questions/564068/linux-oom-situation
