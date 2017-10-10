@@ -48,3 +48,7 @@ http://blog.chinaunix.net/uid-25739055-id-4095797.html
 
 xiebaoyou csdn
 http://blog.chinaunix.net/xmlrpc.php?r=blog/index&uid=25845340&year=2011&pattern=list&page=6
+
+kmemcheck
+http://blog.csdn.net/lishenglong666/article/details/7847380
+https://www.ibm.com/developerworks/cn/linux/l-cn-kmemcheck/
