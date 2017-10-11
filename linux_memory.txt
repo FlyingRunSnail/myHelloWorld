@@ -57,3 +57,4 @@ https://www.ibm.com/developerworks/cn/linux/l-cn-kmemcheck/
 
 oom analysis
 https://serverfault.com/questions/564068/linux-oom-situation
+http://www.linuxdevcenter.com/pub/a/linux/2006/11/30/linux-out-of-memory.html
