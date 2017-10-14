@@ -376,3 +376,6 @@ study
 https://www.shiyanlou.com/
 http://www.haifux.org/
 
+
+pthread
+https://computing.llnl.gov/tutorials/pthreads/
