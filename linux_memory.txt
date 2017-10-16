@@ -58,3 +58,7 @@ https://www.ibm.com/developerworks/cn/linux/l-cn-kmemcheck/
 oom analysis
 https://serverfault.com/questions/564068/linux-oom-situation
 http://www.linuxdevcenter.com/pub/a/linux/2006/11/30/linux-out-of-memory.html http://blog.csdn.net/robertsong2004/article/details/42779729
+
+
+glibc malloc
+http://www.cnblogs.com/zmrlinux/p/4921378.html
