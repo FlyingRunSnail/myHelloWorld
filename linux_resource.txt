@@ -380,3 +380,6 @@ http://www.haifux.org/
 pthread
 https://computing.llnl.gov/tutorials/pthreads/
 http://man.chinaunix.net/linux/lfs/LFS-6.1.1/chapter06/glibc.html
+
+glibc syscall
+https://my.oschina.net/fileoptions/blog/908682
