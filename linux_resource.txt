@@ -385,3 +385,7 @@ http://man.chinaunix.net/linux/lfs/LFS-6.1.1/chapter06/glibc.html
 glibc syscall
 https://my.oschina.net/fileoptions/blog/908682
 
+
+
+debug tool
+https://www.ibm.com/developerworks/systems/library/es-debug/index.html
