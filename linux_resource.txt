@@ -200,6 +200,7 @@ gcc & gdb
 http://cseweb.ucsd.edu/classes/fa09/cse141/tutorial_gcc_gdb.html
 http://stackoverflow.com/questions/5150996/gcc-debug-information
 http://stackoverflow.com/questions/17907715/gcc-how-to-generate-line-number-debug-information-only
+http://www.it165.net/os/html/201405/8236.html
 
 call frame
 https://en.wikipedia.org/wiki/Call_stack#CALL-FRAME
@@ -383,3 +384,4 @@ http://man.chinaunix.net/linux/lfs/LFS-6.1.1/chapter06/glibc.html
 
 glibc syscall
 https://my.oschina.net/fileoptions/blog/908682
+
