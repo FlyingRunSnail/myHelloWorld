@@ -392,3 +392,7 @@ https://www.ibm.com/developerworks/systems/library/es-debug/index.html
 
 kernel debugging
 http://www.mulix.org/lectures/kernel_oopsing/kernel_oopsing.pdf
+
+
+kernelnewbies
+https://kernelnewbies.org/Linux_3.10
