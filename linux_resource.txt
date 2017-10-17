@@ -389,3 +389,6 @@ https://my.oschina.net/fileoptions/blog/908682
 
 debug tool
 https://www.ibm.com/developerworks/systems/library/es-debug/index.html
+
+kernel debugging
+http://www.mulix.org/lectures/kernel_oopsing/kernel_oopsing.pdf
