@@ -396,3 +396,9 @@ http://www.mulix.org/lectures/kernel_oopsing/kernel_oopsing.pdf
 
 kernelnewbies
 https://kernelnewbies.org/Linux_3.10
+
+
+sync
+https://www3.cs.stonybrook.edu/~porter/courses/cse506/f12/slides/sync.pdf
+
+
