@@ -1,3 +1,0 @@
-
-#do_generic_file_read
-http://blog.chinaunix.net/uid-28236237-id-4030381.html

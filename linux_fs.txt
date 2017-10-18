@@ -1,2 +1,6 @@
 fsync analysis
 http://blog.csdn.net/luckyapple1028/article/details/61413724
+
+#do_generic_file_read
+http://blog.chinaunix.net/uid-28236237-id-4030381.html
+
