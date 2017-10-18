@@ -12,3 +12,6 @@ https://www.ibm.com/developerworks/cn/linux/l-cn-sysfs/
 http://www.linuxjournal.com/article/6268
 http://blog.csdn.net/scotthuang1989/article/details/43604245
 
+
+block io
+http://www.cnblogs.com/hanyan225/archive/2011/08/02/2124553.html
