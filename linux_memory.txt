@@ -62,3 +62,6 @@ http://www.linuxdevcenter.com/pub/a/linux/2006/11/30/linux-out-of-memory.html ht
 
 glibc malloc
 http://www.cnblogs.com/zmrlinux/p/4921378.html
+
+page-cache
+https://www3.cs.stonybrook.edu/~porter/courses/cse506/f12/slides/page-cache.pdf
