@@ -401,4 +401,5 @@ https://kernelnewbies.org/Linux_3.10
 sync
 https://www3.cs.stonybrook.edu/~porter/courses/cse506/f12/slides/sync.pdf
 
-
+how to add open source community
+http://blog.csdn.net/ccwwff/article/details/6543949
