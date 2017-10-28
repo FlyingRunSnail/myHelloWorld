@@ -406,3 +406,7 @@ http://blog.csdn.net/ccwwff/article/details/6543949
 
 fudan_abc
 http://blog.csdn.net/fudan_abc/
+
+
+bug zilla
+https://bugzilla.kernel.org/
