@@ -19,3 +19,6 @@ http://blog.sina.com.cn/s/blog_a558c25a0102v7nj.html
 
 journal block device 代码分析
 http://oenhan.com/ext3-jbd-journal
+
+understanding linux file system
+https://www.cyberciti.biz/tips/understanding-unixlinux-file-system-part-i.html
