@@ -27,3 +27,6 @@ https://www.cyberciti.biz/tips/understanding-unixlinux-file-system-part-i.html
 
 ext4 mount option data mode: journal ordered writeback
 http://blog.163.com/digoal@126/blog/static/163877040201571403648184/
+
+tmpfs
+https://www.kernel.org/doc/gorman/html/understand/understand015.html
