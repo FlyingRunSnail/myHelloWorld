@@ -66,3 +66,6 @@ http://www.cnblogs.com/zmrlinux/p/4921378.html
 
 page-cache
 https://www3.cs.stonybrook.edu/~porter/courses/cse506/f12/slides/page-cache.pdf
+
+understand page faults
+http://blog.scoutapp.com/articles/2015/04/10/understanding-page-faults-and-memory-swap-in-outs-when-should-you-worry
