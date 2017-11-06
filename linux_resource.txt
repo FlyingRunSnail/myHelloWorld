@@ -410,3 +410,6 @@ http://blog.csdn.net/fudan_abc/
 
 bug zilla
 https://bugzilla.kernel.org/
+
+arm linux kernel source analysis
+http://vdisk.weibo.com/s/uGXsmIpCn_3-W
