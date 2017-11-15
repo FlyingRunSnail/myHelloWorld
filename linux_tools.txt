@@ -3,3 +3,7 @@ https://static.lwn.net/images/pdf/google-class/07-tools.pdf
 
 minicom usage
 https://www.whatled.com/post-1213.html
+
+
+minicom build
+http://blog.csdn.net/linxing927/article/details/9297545
