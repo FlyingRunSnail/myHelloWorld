@@ -413,3 +413,8 @@ https://bugzilla.kernel.org/
 
 arm linux kernel source analysis
 http://vdisk.weibo.com/s/qxdS27ZLdXsz1
+
+
+lwn
+https://lwn.net
+
