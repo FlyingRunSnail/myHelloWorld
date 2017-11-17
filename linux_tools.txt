@@ -11,3 +11,5 @@ http://blog.csdn.net/linxing927/article/details/9297545
 
 buid gcc for arm
 http://how-to-build-for-arm.wikispaces.com/gcc-4_3_3
+https://launchpad.net/gcc-arm-embedded/+download
+https://developer.arm.com/open-source/gnu-toolchain/gnu-rm/downloads
