@@ -13,3 +13,6 @@ buid gcc for arm
 http://how-to-build-for-arm.wikispaces.com/gcc-4_3_3
 https://launchpad.net/gcc-arm-embedded/+download
 https://developer.arm.com/open-source/gnu-toolchain/gnu-rm/downloads
+
+arm study
+http://blog.csdn.net/u011280717/article/details/71915669
