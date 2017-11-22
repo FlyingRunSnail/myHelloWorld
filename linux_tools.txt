@@ -17,6 +17,9 @@ https://developer.arm.com/open-source/gnu-toolchain/gnu-rm/downloads
 arm study
 http://blog.csdn.net/u011280717/article/details/71915669
 
+arm linux study
+https://pan.baidu.com/share/link?shareid=1865411387&uk=3659204445&third=0&dir=%2F%E4%B9%A6%E7%B1%8D&page=1&adapt=pc&fr=ftw#list/path=%2F%E4%B9%A6%E7%B1%8D
+
 
 buildroot
 http://blog.csdn.net/zhou_chenz/article/details/52295674
