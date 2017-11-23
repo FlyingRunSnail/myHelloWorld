@@ -23,6 +23,7 @@ http://blog.csdn.net/gatieme/article/details/52384965
 http://blog.csdn.net/gatieme/article/category/6393814/2
 http://www.cs.columbia.edu/~junfeng/13fa-w4118/lectures/l20-adv-mm.pdf
 http://lib.csdn.net/linux/knowledge/1298?page=1#md
+https://www.ibm.com/developerworks/cn/linux/l-numa/
 
 aarch64 
 http://blog.csdn.net/ic_soc_arm_robin/article/details/32709143
