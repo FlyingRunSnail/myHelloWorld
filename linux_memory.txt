@@ -39,6 +39,9 @@ http://www.360doc.com/content/13/0415/12/7044580_278379543.shtml
 http://blog.csdn.net/zdy0_2004/article/details/51379065
 http://www.cnblogs.com/tolimit/p/5435068.html
 https://www.ibm.com/developerworks/cn/linux/l-cn-pagerecycle/
+http://blog.csdn.net/tommy_wxie/article/details/17122923/
+https://www.cnblogs.com/woshiweige/p/4521271.html
+http://ilinuxkernel.com/?p=1013
 
 
 memory and cgroup
