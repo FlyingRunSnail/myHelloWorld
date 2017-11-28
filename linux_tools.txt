@@ -23,3 +23,6 @@ https://pan.baidu.com/share/link?shareid=1865411387&uk=3659204445&third=0&dir=%2
 
 buildroot
 http://blog.csdn.net/zhou_chenz/article/details/52295674
+
+linaro gcc for arm
+https://releases.linaro.org/components/toolchain/binaries/latest/arm-linux-gnueabihf/
