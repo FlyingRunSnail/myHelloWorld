@@ -30,3 +30,6 @@ https://releases.linaro.org/components/toolchain/binaries/latest/arm-linux-gnuea
 
 tmate
 https://github.com/tmate-io/tmate
+
+sourceinsight 
+https://www.cnblogs.com/Napoleon-Wang/p/6706773.html
