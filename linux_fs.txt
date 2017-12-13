@@ -30,3 +30,6 @@ http://blog.163.com/digoal@126/blog/static/163877040201571403648184/
 
 tmpfs
 https://www.kernel.org/doc/gorman/html/understand/understand015.html
+
+fs layer 
+https://www.cnblogs.com/quixotic/p/3258730.html
