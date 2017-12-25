@@ -46,6 +46,7 @@ http://ilinuxkernel.com/?p=1013
 
 memory and cgroup
 https://www.mjmwired.net/kernel/Documentation/cgroups/memory.txt
+http://www.oracle.com/technetwork/cn/articles/servers-storage-admin/resource-controllers-linux-1506602-zhs.html
 
 
 linux cache
