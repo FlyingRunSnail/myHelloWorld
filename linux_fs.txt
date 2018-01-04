@@ -11,6 +11,7 @@ https://www.ibm.com/developerworks/cn/linux/l-linux-filesystem/
 https://www.ibm.com/developerworks/cn/linux/l-cn-sysfs/
 http://www.linuxjournal.com/article/6268
 http://blog.csdn.net/scotthuang1989/article/details/43604245
+http://blog.csdn.net/zdy0_2004/article/details/46977841
 
 
 block io
