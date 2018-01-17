@@ -1,0 +1,2 @@
+memory in glibc
+http://lib.csdn.net/article/linux/40709
