@@ -2,3 +2,6 @@ memory in glibc
 http://lib.csdn.net/article/linux/40709
 
 https://dangokyo.me/2017/12/12/introduction-on-ptmalloc-part-2/
+
+glibc internals
+https://sourceware.org/glibc/wiki/MallocInternals
