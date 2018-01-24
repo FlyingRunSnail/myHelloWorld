@@ -79,3 +79,7 @@ http://blog.scoutapp.com/articles/2015/04/10/understanding-page-faults-and-memor
 
 arm memory releated
 http://blog.csdn.net/a04081122/article/details/52912194
+
+CMA
+https://www.csdn.net/article/a/2016-07-07/15839383
+http://blog.csdn.net/21cnbao/article/details/7309757
