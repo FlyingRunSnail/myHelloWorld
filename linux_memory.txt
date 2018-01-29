@@ -83,3 +83,9 @@ http://blog.csdn.net/a04081122/article/details/52912194
 CMA
 https://www.csdn.net/article/a/2016-07-07/15839383
 http://blog.csdn.net/21cnbao/article/details/7309757
+http://blog.csdn.net/yin262/article/details/48730165
+http://www.wowotech.net/memory_management/cma.html
+http://blog.csdn.net/a04081122/article/details/52912242
+http://blog.csdn.net/yin262/article/details/48730165
+https://www.ibm.com/developerworks/community/blogs/5144904d-5d75-45ed-9d2b-cf1754ee936a/entry/20160607?lang=es
+
