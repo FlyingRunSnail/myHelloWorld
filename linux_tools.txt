@@ -33,3 +33,6 @@ https://github.com/tmate-io/tmate
 
 sourceinsight 
 https://www.cnblogs.com/Napoleon-Wang/p/6706773.html
+
+mips loongson
+https://hev.cc/category/computer/%E6%9E%B6%E6%9E%84/mips
