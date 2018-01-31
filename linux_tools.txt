@@ -36,3 +36,8 @@ https://www.cnblogs.com/Napoleon-Wang/p/6706773.html
 
 mips loongson
 https://hev.cc/category/computer/%E6%9E%B6%E6%9E%84/mips
+http://inst.eecs.berkeley.edu/~cs61cl/fa09/misc/lec04.pdf
+http://www.cs.uni.edu/~fienup/cs041s08/lectures/lec20_MIPS.pdf
+https://courses.cs.washington.edu/courses/cse378/02sp/sections/section3-2.html
+http://danzig.us/mips/architecture.html
+https://www.cs.utah.edu/~rajeev/cs3810/slides/3810-03.pdf
