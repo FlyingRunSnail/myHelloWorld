@@ -5,3 +5,6 @@ https://dangokyo.me/2017/12/12/introduction-on-ptmalloc-part-2/
 
 glibc internals
 https://sourceware.org/glibc/wiki/MallocInternals
+
+localtime deadlock
+http://blog.csdn.net/chosen0ne/article/details/46928483
