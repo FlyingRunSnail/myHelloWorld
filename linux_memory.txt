@@ -89,3 +89,8 @@ http://blog.csdn.net/a04081122/article/details/52912242
 http://blog.csdn.net/yin262/article/details/48730165
 https://www.ibm.com/developerworks/community/blogs/5144904d-5d75-45ed-9d2b-cf1754ee936a/entry/20160607?lang=es
 
+
+Debug Kernel Space Memory Leak
+http://www.bo-yang.net/2015/03/30/debug-kernel-space-memory-leak
+https://elinux.org/Kernel_dynamic_memory_analysis
+
