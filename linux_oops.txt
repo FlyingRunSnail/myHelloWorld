@@ -1,0 +1,2 @@
+understanding linux oops
+http://opensourceforu.com/2011/01/understanding-a-kernel-oops/
