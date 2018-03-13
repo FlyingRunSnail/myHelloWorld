@@ -418,3 +418,6 @@ http://vdisk.weibo.com/s/qxdS27ZLdXsz1
 lwn
 https://lwn.net
 
+
+books found in sina.com,include IT and others
+http://blog.sina.com.cn/s/articlelist_3283485963_0_1.html
