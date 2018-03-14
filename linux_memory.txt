@@ -94,3 +94,5 @@ Debug Kernel Space Memory Leak
 http://www.bo-yang.net/2015/03/30/debug-kernel-space-memory-leak
 https://elinux.org/Kernel_dynamic_memory_analysis
 
+User space memory access from the Linux kernel
+https://www.ibm.com/developerworks/library/l-kernel-memory-access/
