@@ -45,3 +45,9 @@ https://www.cs.utah.edu/~rajeev/cs3810/slides/3810-03.pdf
 
 source insight
 https://pan.baidu.com/s/1dF729UT 密码：9nx6
+
+ctags & cscope & linux kernel browse
+http://tuxdiary.com/2012/07/25/use-vim-like-source-insight-on-linux/
+https://www.dayexie.com/detail669180.html
+https://elinux.org/Editor_Tips
+http://cscope.sourceforge.net/cscope_vim_tutorial.html
