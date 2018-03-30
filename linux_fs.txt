@@ -14,6 +14,7 @@ http://blog.csdn.net/scotthuang1989/article/details/43604245
 http://blog.csdn.net/zdy0_2004/article/details/46977841
 http://www.nongnu.org/ext2-doc/ext2.html
 https://blog.csdn.net/yuzhihui_no1/article/details/50256713
+http://cs.smith.edu/~nhowe/262/oldlabs/ext2.html
 
 block io
 http://www.cnblogs.com/hanyan225/archive/2011/08/02/2124553.html
