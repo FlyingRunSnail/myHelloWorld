@@ -424,3 +424,4 @@ http://blog.sina.com.cn/s/articlelist_3283485963_0_1.html
 
 linux schedule
 https://www.ibm.com/developerworks/library/l-completely-fair-scheduler/index.html
+http://www.linuxjournal.com/article/3910
