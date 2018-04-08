@@ -1,2 +1,5 @@
 dts releadted 
 http://www.wowotech.net/device_model/why-dt.html
+
+arm linux boot sequence
+https://jsevy.com/linux/ARM_Linux_boot_sequence.html
