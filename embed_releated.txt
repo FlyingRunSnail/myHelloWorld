@@ -6,3 +6,6 @@ https://jsevy.com/linux/ARM_Linux_boot_sequence.html
 
 booting arm linux
 https://www.kernel.org/doc/Documentation/arm/Booting
+
+stm32
+http://www.st.com/content/ccc/resource/technical/document/programming_manual/6c/3a/cb/e7/e4/ea/44/9b/DM00046982.pdf/files/DM00046982.pdf/jcr:content/translations/en.DM00046982.pdf
