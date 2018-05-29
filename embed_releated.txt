@@ -12,3 +12,4 @@ http://www.st.com/content/ccc/resource/technical/document/programming_manual/6c/
 
 stm32 dma
 http://www.st.com/content/ccc/resource/technical/document/application_note/27/46/7c/ea/2d/91/40/a9/DM00046011.pdf/files/DM00046011.pdf/jcr:content/translations/en.DM00046011.pdf
+https://stm32f4-discovery.net/2017/07/stm32-tutorial-efficiently-receive-uart-data-using-dma/
