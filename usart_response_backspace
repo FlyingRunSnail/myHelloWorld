@@ -1,0 +1,3 @@
+usart_send(0x8);
+usart_send(0x20);
+usart_send(0x8);
