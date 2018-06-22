@@ -1,2 +1,3 @@
 linux serial programming
 https://blog.csdn.net/tigerjibo/article/details/6179291
+https://www.cmrr.umn.edu/~strupp/serial.html#7_1   // very good
