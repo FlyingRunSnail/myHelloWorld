@@ -1,0 +1,2 @@
+linux serial programming
+https://blog.csdn.net/tigerjibo/article/details/6179291
