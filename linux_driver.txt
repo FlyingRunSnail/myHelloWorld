@@ -4,3 +4,4 @@ https://www.linuxjournal.com/article/6331
 
 serial driver
 https://bootlin.com/doc/legacy/serial-drivers/linux-serial-drivers.pdf
+https://bootlin.com/doc/legacy/serial-drivers/
