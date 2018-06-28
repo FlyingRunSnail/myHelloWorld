@@ -26,3 +26,10 @@ http://wiki.csie.ncku.edu.tw/embedded/arm-exceptions.pdf
 
 singlechip releated
 https://blog.csdn.net/flyleaf91/article/list/3?t=1
+
+
+isp
+https://github.com/ARMinARM/stm32flash
+https://github.com/lixingcong/stm32-development-on-linux
+http://stm32f4-discovery.net/2014/09/program-stm32f4-with-uart/
+
