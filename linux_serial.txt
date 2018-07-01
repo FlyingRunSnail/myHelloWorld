@@ -1,3 +1,6 @@
 linux serial programming
 https://blog.csdn.net/tigerjibo/article/details/6179291
 https://www.cmrr.umn.edu/~strupp/serial.html#7_1   // very good
+https://bootlin.com/doc/legacy/serial-drivers/serial-drivers-lab.pdf
+https://www.tldp.org/HOWTO/pdf/Serial-HOWTO.pdf
+https://static.lwn.net/images/pdf/LDD3/ch18.pdf
