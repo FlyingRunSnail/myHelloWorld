@@ -1,1 +1,5 @@
 http://cs.smith.edu/~nhowe/262/oldlabs/
+
+
+hr timer CONFIG_NO_HZ
+https://stackoverflow.com/questions/9775042/how-nohz-on-affects-do-timer-in-linux-kernel
