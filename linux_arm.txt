@@ -17,3 +17,7 @@ https://stackoverflow.com/questions/36423059/arm-specific-irq-initialization
 
 arm machine id 
 https://stackoverflow.com/questions/25256486/arm-machine-board-id
+
+
+linux arm interrupt controller init flow
+https://blog.csdn.net/gzzaigcnforever/article/details/47425945
