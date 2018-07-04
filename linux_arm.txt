@@ -21,3 +21,9 @@ https://stackoverflow.com/questions/25256486/arm-machine-board-id
 
 linux arm interrupt controller init flow
 https://blog.csdn.net/gzzaigcnforever/article/details/47425945
+https://stackoverflow.com/questions/34371352/what-are-linux-irq-domains-why-are-they-needed
+http://www.wowotech.net/irq_subsystem/interrupt_descriptor.html
+https://boundarydevices.com/mx6-device-tree-customization/
+
+start_kernel
+http://blog.chinaunix.net/uid-20672257-id-2379743.html
