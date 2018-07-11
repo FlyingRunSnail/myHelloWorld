@@ -8,3 +8,5 @@ https://stackoverflow.com/questions/9775042/how-nohz-on-affects-do-timer-in-linu
 __section explain
 https://stackoverflow.com/questions/45542965/what-does-section-mean-in-linux-kernel-source
 
+linux resources list
+https://www.spinics.net/lists/
