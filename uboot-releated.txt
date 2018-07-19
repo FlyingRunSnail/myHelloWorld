@@ -1,0 +1,2 @@
+uboot analysis
+https://blog.csdn.net/kernel_yx/article/details/53045424
