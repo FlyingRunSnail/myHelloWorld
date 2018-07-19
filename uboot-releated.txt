@@ -1,3 +1,4 @@
 uboot usage from nxp
 https://www.nxp.com/downloads/en/design-support/uboot.pdf
 http://processors.wiki.ti.com/index.php/Booting_Linux_kernel_using_U-Boot
+http://xillybus.com/tutorials/uboot-hacking-howto-1
