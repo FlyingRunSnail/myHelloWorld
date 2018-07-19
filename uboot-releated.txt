@@ -1,2 +1,2 @@
-uboot analysis
-https://blog.csdn.net/kernel_yx/article/details/53045424
+uboot usage from nxp
+https://www.nxp.com/downloads/en/design-support/uboot.pdf
