@@ -27,3 +27,6 @@ https://boundarydevices.com/mx6-device-tree-customization/
 
 start_kernel
 http://blog.chinaunix.net/uid-20672257-id-2379743.html
+
+arm startup flow
+https://blog.csdn.net/cs0301lm/article/details/41078599
