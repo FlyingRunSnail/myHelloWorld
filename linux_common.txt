@@ -10,3 +10,6 @@ https://stackoverflow.com/questions/45542965/what-does-section-mean-in-linux-ker
 
 linux resources list
 https://www.spinics.net/lists/
+
+stack tutorial
+https://upload.wikimedia.org/wikiversity/en/8/81/Stack.20161017.pdf
