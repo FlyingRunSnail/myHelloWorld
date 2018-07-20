@@ -30,3 +30,6 @@ http://blog.chinaunix.net/uid-20672257-id-2379743.html
 
 arm startup flow
 https://blog.csdn.net/cs0301lm/article/details/41078599
+
+arm32 smp can not get kernel stack
+http://lkml.iu.edu/hypermail/linux/kernel/1311.2/00072.html
