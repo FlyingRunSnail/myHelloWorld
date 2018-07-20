@@ -13,3 +13,6 @@ https://www.spinics.net/lists/
 
 stack tutorial
 https://upload.wikimedia.org/wikiversity/en/8/81/Stack.20161017.pdf
+
+kernel small stack
+https://elinux.org/Kernel_Small_Stacks

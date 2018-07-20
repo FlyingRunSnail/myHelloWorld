@@ -33,3 +33,6 @@ https://blog.csdn.net/cs0301lm/article/details/41078599
 
 arm32 smp can not get kernel stack
 http://lkml.iu.edu/hypermail/linux/kernel/1311.2/00072.html
+
+arm linux boot sequence
+https://jsevy.com/linux/ARM_Linux_boot_sequence.html
