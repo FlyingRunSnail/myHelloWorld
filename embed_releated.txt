@@ -33,3 +33,5 @@ https://github.com/ARMinARM/stm32flash
 https://github.com/lixingcong/stm32-development-on-linux
 http://stm32f4-discovery.net/2014/09/program-stm32f4-with-uart/
 
+compile cortex-m4 on linux
+http://regalis.com.pl/en/arm-cortex-stm32-gnulinux/
