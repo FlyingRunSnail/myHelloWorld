@@ -1,2 +1,5 @@
 download google chrome standalone
 https://blog.csdn.net/hailangnet/article/details/51704034
+
+optimize ubuntu
+https://blog.csdn.net/u012260238/article/details/52716592
