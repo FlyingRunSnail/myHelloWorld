@@ -38,3 +38,13 @@ http://regalis.com.pl/en/arm-cortex-stm32-gnulinux/
 
 rs485
 https://www.cnblogs.com/amanlikethis/p/3966937.html
+
+linux gpio operations
+cat /sys/kernel/debug/gpio     // which io base and io port?
+cd /sys/class/gpio
+echo actual io port num + io base > export
+cd generated io directory
+cat direction
+cat value
+echo in/out > direction
+echo 0/1 > value
