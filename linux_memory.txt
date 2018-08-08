@@ -99,3 +99,9 @@ https://www.ibm.com/developerworks/library/l-kernel-memory-access/
 
 unevictable
 https://www.mjmwired.net/kernel/Documentation/vm/unevictable-lru.txt
+
+suse memory managent
+http://d3s.mff.cuni.cz/teaching/advanced_operating_systems/slides/09_memory_management.pdf
+
+kernel boot
+https://www.diag.uniroma1.it/~pellegrini/didattica/2017/aosv/2.Kernel-Boot.pdf
