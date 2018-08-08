@@ -105,3 +105,19 @@ http://d3s.mff.cuni.cz/teaching/advanced_operating_systems/slides/09_memory_mana
 
 kernel boot
 https://www.diag.uniroma1.it/~pellegrini/didattica/2017/aosv/2.Kernel-Boot.pdf
+
+//memory managent:paging
+https://www.cs.rutgers.edu/~pxk/416/notes/10-paging.html
+Understanding the Linux Virtual Memory Manager, Mel Gorman, 2004 Prentice Hall.
+John R. Levine, Linkers and Loaders, Morgan-Kauffman, October 1999, ISBN 1-55860-496-0. Linkers and Loaders, John R. Levine
+Intel Software Developer's Manual (Download site)
+ARM1176JZ-S Technical Reference Manual, Revision r0p7, Chapter 6: Memory Management Unit. 
+(pdf version)
+Physical Address Extension, Wikipedia article
+x86-64, Wikipedia article
+Four-level page tables merged, LWN.net article 
+Also, see: 4level page tables merged into mainline, LWN discussion
+Anatomy of a program in memory, Gustavo Duarte, Jan 2009.
+Anatomy of the Linux slab allocator: Learn how Linux manages memory, M. Tim Jones, IBM developerWorks, May 15, 2007.
+##########################################################################
+https://www.cs.rutgers.edu/~pxk/416/notes/10-paging.html
