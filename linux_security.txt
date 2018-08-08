@@ -1,0 +1,2 @@
+#security slub overwrite attack
+https://resources.infosecinstitute.com/exploiting-linux-kernel-heap-corruptions-slub-allocator/
