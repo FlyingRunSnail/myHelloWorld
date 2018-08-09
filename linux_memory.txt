@@ -121,3 +121,7 @@ Anatomy of a program in memory, Gustavo Duarte, Jan 2009.
 Anatomy of the Linux slab allocator: Learn how Linux manages memory, M. Tim Jones, IBM developerWorks, May 15, 2007.
 ##########################################################################
 https://www.cs.rutgers.edu/~pxk/416/notes/10-paging.html
+
+how slub allocator works
+https://events.static.linuxfound.org/images/stories/pdf/klf2012_kim.pdf
+
