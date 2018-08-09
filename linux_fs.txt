@@ -39,3 +39,6 @@ https://www.kernel.org/doc/gorman/html/understand/understand015.html
 
 fs layer 
 https://www.cnblogs.com/quixotic/p/3258730.html
+
+sysfs tutorial
+https://www.cs.swarthmore.edu/~newhall/sysfstutorial.pdf
