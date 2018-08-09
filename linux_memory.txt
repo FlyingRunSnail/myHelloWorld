@@ -122,6 +122,8 @@ Anatomy of the Linux slab allocator: Learn how Linux manages memory, M. Tim Jone
 ##########################################################################
 https://www.cs.rutgers.edu/~pxk/416/notes/10-paging.html
 
-how slub allocator works
-https://events.static.linuxfound.org/images/stories/pdf/klf2012_kim.pdf
-
+{
+    // how slub allocator works, read the following 2 links can help understand how the slub allocator works
+    https://events.static.linuxfound.org/images/stories/pdf/klf2012_kim.pdf
+    https://blog.csdn.net/lukuen/article/details/6935068
+}
