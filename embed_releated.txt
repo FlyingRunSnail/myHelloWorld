@@ -48,3 +48,6 @@ cat direction
 cat value
 echo in/out > direction
 echo 0/1 > value
+
+linux phy 
+https://blog.csdn.net/mrwangwang/article/details/17394677
