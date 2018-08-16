@@ -5,3 +5,6 @@ https://www.linuxjournal.com/article/6331
 serial driver
 https://bootlin.com/doc/legacy/serial-drivers/linux-serial-drivers.pdf
 https://bootlin.com/doc/legacy/serial-drivers/
+
+linux-ethernet-driver-using-qemu
+https://www.codeproject.com/articles/1087177/linux-ethernet-driver-using-qemu
