@@ -8,3 +8,11 @@ https://bootlin.com/doc/legacy/serial-drivers/
 
 linux-ethernet-driver-using-qemu
 https://www.codeproject.com/articles/1087177/linux-ethernet-driver-using-qemu
+
+linux network driver
+https://bootlin.com/doc/legacy/network-drivers/network-drivers-lab.pdf
+
+
+linux driver model
+https://blog.csdn.net/babyzhaoshu521/article/details/60350843
+
