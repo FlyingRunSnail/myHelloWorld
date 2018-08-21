@@ -127,3 +127,6 @@ https://www.cs.rutgers.edu/~pxk/416/notes/10-paging.html
     https://events.static.linuxfound.org/images/stories/pdf/klf2012_kim.pdf
     https://blog.csdn.net/lukuen/article/details/6935068
 }
+
+Virtual Memory and Linux
+https://events.static.linuxfound.org/sites/events/files/slides/elc_2016_mem.pdf
