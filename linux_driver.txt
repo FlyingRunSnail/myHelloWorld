@@ -16,3 +16,4 @@ https://bootlin.com/doc/legacy/network-drivers/network-drivers-lab.pdf
 linux driver model
 https://blog.csdn.net/babyzhaoshu521/article/details/60350843
 https://blog.csdn.net/kunkliu/article/details/78084306
+http://blog.chinaunix.net/uid-31429192-id-5758971.html
