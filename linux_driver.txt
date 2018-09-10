@@ -11,6 +11,7 @@ https://www.codeproject.com/articles/1087177/linux-ethernet-driver-using-qemu
 
 linux network driver
 https://bootlin.com/doc/legacy/network-drivers/network-drivers-lab.pdf
+https://www.cnblogs.com/lcword/p/5914146.html
 
 
 linux driver model
