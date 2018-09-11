@@ -23,3 +23,6 @@ dts
 https://blog.csdn.net/zqixiao_09/article/details/50889458
 https://blog.csdn.net/zqixiao_09/article/details/50822753
 https://blog.csdn.net/zqixiao_09/article/details/50888795
+
+pcie
+https://www.kernel.org/doc/ols/2005/ols2005v2-pages-9-18.pdf
