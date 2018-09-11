@@ -51,3 +51,6 @@ echo 0/1 > value
 
 linux phy 
 https://blog.csdn.net/mrwangwang/article/details/17394677
+
+qemu build arm development enviroment
+https://blog.csdn.net/jwq2011/article/details/54708529
