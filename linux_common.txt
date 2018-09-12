@@ -25,3 +25,6 @@ http://www.cnblogs.com/tolimit/default.aspx?page=1
 
 an midterm exam test
 https://web.njit.edu/~sohna/cs433/cs433-sample-test1.pdf
+
+codingbelief
+https://linux.codingbelief.com/zh/storage/flash_memory/emmc/emmc_partitions.html
