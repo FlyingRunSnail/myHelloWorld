@@ -28,3 +28,6 @@ https://web.njit.edu/~sohna/cs433/cs433-sample-test1.pdf
 
 codingbelief
 https://linux.codingbelief.com/zh/storage/flash_memory/emmc/emmc_partitions.html
+
+how linux boot
+http://www.cnblogs.com/bangerlee/archive/2012/03/11/2388275.html
