@@ -61,3 +61,6 @@ https://wenku.baidu.com/view/30e483ba960590c69ec376d5.html
 
 busybox inittab
 https://blog.csdn.net/wwwchenyc/article/details/70233383
+
+build rootfs
+https://www.cnblogs.com/PengfeiSong/p/6443149.html
