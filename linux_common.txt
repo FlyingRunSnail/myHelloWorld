@@ -35,3 +35,6 @@ http://www.cnblogs.com/bangerlee/archive/2012/03/11/2388275.html
 qemu command
 qemu-system-arm -M vexpress-a9 -m 512M -kernel ~/Downloads/linux-3.10/arch/arm/boot/zImage -nographic --append "console=ttyAMA0 rootfstype=ramfs rdinit=/sbin/init"
 
+
+linux kernel releated
+https://blog.csdn.net/luomoweilan/article/category/1830807
