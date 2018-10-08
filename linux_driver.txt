@@ -18,6 +18,7 @@ linux driver model
 https://blog.csdn.net/babyzhaoshu521/article/details/60350843
 https://blog.csdn.net/kunkliu/article/details/78084306
 http://blog.chinaunix.net/uid-31429192-id-5758971.html
+http://bravegnu.org/device-model/device-model.html
 
 dts
 https://blog.csdn.net/zqixiao_09/article/details/50889458
@@ -26,6 +27,8 @@ https://blog.csdn.net/zqixiao_09/article/details/50888795
 
 pcie
 https://www.kernel.org/doc/ols/2005/ols2005v2-pages-9-18.pdf
+https://blog.csdn.net/zjy900507/article/details/78948950
 
 block device driver(for emmc)
 https://blog.csdn.net/radianceblau/article/details/72956127
+https://www.linuxjournal.com/article/2890

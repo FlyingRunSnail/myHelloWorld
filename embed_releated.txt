@@ -54,6 +54,7 @@ https://blog.csdn.net/mrwangwang/article/details/17394677
 
 qemu build arm development enviroment
 https://blog.csdn.net/jwq2011/article/details/54708529
+https://blog.csdn.net/qq_24188351/article/details/77891353
 
 an introduce to eMMC
 https://wenku.baidu.com/view/30e483ba960590c69ec376d5.html
@@ -64,3 +65,6 @@ https://blog.csdn.net/wwwchenyc/article/details/70233383
 
 build rootfs
 https://www.cnblogs.com/PengfeiSong/p/6443149.html
+
+emmc partion
+https://blog.csdn.net/wxh0000mm/article/details/80266533
