@@ -68,3 +68,10 @@ https://www.cnblogs.com/PengfeiSong/p/6443149.html
 
 emmc partion
 https://blog.csdn.net/wxh0000mm/article/details/80266533
+
+
+stm32f2 project
+https://blog.csdn.net/flydream0/article/details/8237311
+http://www.stmcu.org.cn/module/forum/thread-599960-1-1.html
+http://home.eeworld.com.cn/home.php?mod=space&uid=536884&do=blog&id=259181
+
