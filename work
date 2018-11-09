@@ -1,0 +1,14 @@
+串口标准：16C550 compatible UART with 16 byte transmit-receive FIFO
+https://en.wikipedia.org/wiki/16550_UART
+
+ST16550
+https://wenku.baidu.com/view/edd1017bf7ec4afe04a1df48.html
+
+PCI多串口
+https://wenku.baidu.com/view/83ee7107fbd6195f312b3169a45177232f60e462.html
+
+
+LPC
+https://wenku.baidu.com/view/22dc31ed844769eae009edf5.html
+https://www.intel.com/content/dam/www/program/design/us/en/documents/low-pin-count-interface-specification.pdf
+https://blog.csdn.net/subfate/article/details/53456974
