@@ -75,3 +75,5 @@ https://blog.csdn.net/flydream0/article/details/8237311
 http://www.stmcu.org.cn/module/forum/thread-599960-1-1.html
 http://home.eeworld.com.cn/home.php?mod=space&uid=536884&do=blog&id=259181
 
+debug stm32 base on openocd jlink and gdb
+https://blog.csdn.net/lsy5631932/article/details/9253427
