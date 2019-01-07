@@ -80,3 +80,6 @@ https://blog.csdn.net/lsy5631932/article/details/9253427
 
 // stm32 develop based on gnu tool 
 https://wenku.baidu.com/view/b3a9d6ef4afe04a1b071deed.html
+
+// how to build arm64 kernel
+https://wiki.linaro.org/HowTo/BuildArm64Kernel
