@@ -36,3 +36,6 @@ http://lkml.iu.edu/hypermail/linux/kernel/1311.2/00072.html
 
 arm linux boot sequence
 https://jsevy.com/linux/ARM_Linux_boot_sequence.html
+
+ARMv8 white paper
+https://www.arm.com/zh/files/downloads/ARMv8_white_paper_v5.pdf
