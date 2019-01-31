@@ -3,3 +3,12 @@ http://blog.csdn.net/guojin08/article/details/25457311
 
 #mips stack frame
 http://blog.csdn.net/do2jiang/article/details/5404566
+
+#call function with pointer parameter
+set $var=(int *)malloc(sizeof(int))
+p $var  // it's a pointer
+set *$var=0x55aa
+p/x *$var
+call test($var)   // set *$var=0xaa55
+p/x *$var
+
