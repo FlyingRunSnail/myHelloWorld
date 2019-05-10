@@ -5,3 +5,6 @@ http://xillybus.com/tutorials/uboot-hacking-howto-1
 
 SPL
 https://stackoverflow.com/questions/31244862/what-is-the-use-of-spl-secondary-program-loader
+
+uboot base introduce
+http://processors.wiki.ti.com/index.php/Linux_Core_U-Boot_User%27s_Guide
