@@ -1,2 +1,5 @@
 usb basic
 https://www.crifan.com/files/doc/docbook/usb_basic/release/html/usb_basic.html
+
+an usb introduce website
+http://www.usbtips.com/what-is-the-usb-enumeration-process/
