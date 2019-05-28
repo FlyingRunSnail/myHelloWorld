@@ -77,6 +77,7 @@ http://home.eeworld.com.cn/home.php?mod=space&uid=536884&do=blog&id=259181
 
 debug stm32 base on openocd jlink and gdb
 https://blog.csdn.net/lsy5631932/article/details/9253427
+https://blog.csdn.net/qq_33641919/article/details/83860531
 
 // stm32 develop based on gnu tool 
 https://wenku.baidu.com/view/b3a9d6ef4afe04a1b071deed.html
