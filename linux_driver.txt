@@ -32,3 +32,6 @@ https://blog.csdn.net/zjy900507/article/details/78948950
 block device driver(for emmc)
 https://blog.csdn.net/radianceblau/article/details/72956127
 https://www.linuxjournal.com/article/2890
+
+ldd3 online
+https://lwn.net/Kernel/LDD3/
