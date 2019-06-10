@@ -53,3 +53,11 @@ https://elinux.org/Editor_Tips
 http://cscope.sourceforge.net/cscope_vim_tutorial.html
 https://www.crifan.com/switch_linux_code_to_read_next_-_configuration_vim__ctags__taglist__cscope/
  
+sysrq xshelll/secureCRT
+https://blog.csdn.net/liujianfeng1984/article/details/11956419
+for xshell
+1.tool
+  1.1 option
+    1.1.1 keyboard and mouse
+        1.1.1.1 edit
+            1.1.1.1.1 new xxx map a key to break 
