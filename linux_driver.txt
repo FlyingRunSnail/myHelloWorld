@@ -41,3 +41,6 @@ https://bootlin.com/doc/legacy/pci-drivers/pci-drivers.pdf
 
 a good place to learn embeded releated
 https://bootlin.com/
+
+rtc base
+https://blog.csdn.net/ruanjianruanjianruan/article/details/61961778
