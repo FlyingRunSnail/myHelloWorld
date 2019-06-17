@@ -8,3 +8,6 @@ https://sourceware.org/glibc/wiki/MallocInternals
 
 localtime deadlock
 http://blog.csdn.net/chosen0ne/article/details/46928483
+
+c_standard_library
+https://www.tutorialspoint.com/c_standard_library/c_function_fgets.htm
