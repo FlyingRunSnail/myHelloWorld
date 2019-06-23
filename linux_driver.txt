@@ -38,6 +38,7 @@ https://lwn.net/Kernel/LDD3/
 
 pci driver introduce
 https://bootlin.com/doc/legacy/pci-drivers/pci-drivers.pdf
+https://www.oreilly.com/library/view/linux-device-drivers/0596005903/ch12.html
 
 a good place to learn embeded releated
 https://bootlin.com/
