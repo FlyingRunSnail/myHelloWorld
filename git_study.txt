@@ -6,3 +6,6 @@ revert to previous version
 2. cope commit id
 3. git checkout <commit id> <filename>
 4. git commit -m "revert to previous version"
+
+liaoxuefeng git study
+https://www.liaoxuefeng.com/wiki/896043488029600/897013573512192
