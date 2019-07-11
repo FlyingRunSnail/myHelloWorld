@@ -1,0 +1,22 @@
+1. install samba
+    sudo apt-get install samba
+2. cd /etc/samba
+3. edit smb.conf
+4. example as bellow:
+   [workshare]
+   comment = samba with work
+   path = /home/huyong/work
+   browseable = yes 
+   writable = yes 
+   available = yes 
+   public = yes 
+
+5. how to test if samba works ok or not
+   a. ubuntu
+      sudo apt install smbclient
+   b. get hostname
+      hostname
+   c. command as bellow
+      sudo smbclient -U huyong-ubuntu //198.1.3.199/workshare
+   d. windowns
+      run \\198.1.3.199\workshare
