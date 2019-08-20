@@ -36,3 +36,6 @@ dmesg怎么搞的大家应该很明白了吧.至于/var/log/下的文件更是�
 
 补充：syslogd需要相应的配置文件，/etc/syslog.conf。具体配置可以在网上搜索，这个是通用的。
       klogd不存在相应的配置文件，只能通过命令行或者信号改变其行为。
+
+reference:
+      syslogd配置参考： https://blog.csdn.net/zyy617532750/article/details/74942090
