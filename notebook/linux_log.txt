@@ -1,0 +1,38 @@
+守护进程klogd和syslogd
+我们可以看到LINUX系统信息日志的途径基本有以下2种:
+1>dmesg查看----这个命令比较常见
+2>/var/log/下的文件
+那下面我们就从这个2个途径着手,一步步的走下去.
+<一>
+首先,我们来看dmesg这个常见的命令背后隐藏的是什么!!
+1> 先让我们来MAN一下这个家伙
+从LINUX提供的手册,我们可以得知一条最重要的信息dmesg是从kernel 的ring buffer(环缓冲区)中读取信息的
+2> 那什么是ring buffer呢?
+       在LINUX中,所有的系统信息(包内核信息)都会传送到ring buffer中.而内核产生的信息由printk()打印出来。系统启动时所看到的信息都是由该函数打印到屏幕中。 printk（）打出的信息往往以<0><2>...这的数字表明消息的重要级别。高于一定的优先级别会打印到屏幕上， 否则只会保留在系统的缓冲区中(ring buffer)。
+       至于dmesg具体是如何从ring buffer中读取的,大家可以看dmesg.c源代码.很短,比较容易读懂.
+<二>
+dmesg怎么搞的大家应该很明白了吧.至于/var/log/下的文件更是大家熟悉得不能再熟悉了!
+1> /var/log/..下为什么有这么多文件呢?
+一句话解释: 是syslogd这个守护进程根据/etc/syslog.conf,将不同的服务产生的Log记录到不同的文件中.
+    这里的/etc/syslog.conf我就不细说了,很多这方面的信息(去查吧).(如果klogd 和syslogd 都运行，则无论console_loglevel
+    为何值，内核消息都将追加到/var/log/messages中，否则按照syslogd的配置文件进行处理。 gram add)
+2> 既然知道了,/var/log/..是由syslogd这个守护进程产生的.那就再顺着这条线走下去.
+     LINUX系统启动后，由/etc/init.d/sysklogd先后启动klogd,syslogd两个守护进程。
+     其中klogd会通过syslog()系统调用或者读取proc文件系统来从系统缓冲区(ring buffer)中得到由内核printk()
+    发出的信息.而syslogd是通过klogd来读取系统内核信息.（如果klogd没有运行，内核消息就不会传递到用户空间，这种情况下
+    只能查看/proc/kmsg 文件 gram add）
+我想至此,大家心理应该对log产生,读取等一系列的动作有所感觉.
+总结一下:
+1>   所有系统信息是输出到ring buffer中去的.dmesg所显示的内容也是从ring buffer中读取的.
+2> LINUX系统中/etc/init.d/sysklogd会启动2个守护进程:Klogd&&Syslogd
+3> klogd是负责读取内核信息的,有2种方式:
+            syslog()系统调用(这个函数用法比较全,大家去MAN一下看看)
+             直接的对/proc/kmsg进行读取(再这提一下,/proc/kmsg是专门输出内核信息的地方)
+4>   Klogd的输出结果会传送给syslogd进行处理,syslogd会根据/etc/syslog.conf的配置把log
+      信息输出到/var/log/下的不同文件中.
+
+
+
+
+补充：syslogd需要相应的配置文件，/etc/syslog.conf。具体配置可以在网上搜索，这个是通用的。
+      klogd不存在相应的配置文件，只能通过命令行或者信号改变其行为。
