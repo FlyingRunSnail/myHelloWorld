@@ -1,0 +1,2 @@
+linux route command and how route works
+https://www.thegeekstuff.com/2012/04/route-examples
