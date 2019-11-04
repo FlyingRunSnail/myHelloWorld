@@ -60,6 +60,7 @@ https://blog.csdn.net/qq_24188351/article/details/77891353
 
 an introduce to eMMC
 https://wenku.baidu.com/view/30e483ba960590c69ec376d5.html
+https://blog.csdn.net/g_linuxer_/article/details/51005523
 
 
 busybox inittab
