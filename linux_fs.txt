@@ -23,6 +23,9 @@ block io
 http://www.cnblogs.com/hanyan225/archive/2011/08/02/2124553.html
 http://blog.sina.com.cn/s/blog_a558c25a0102v7nj.html
 https://www.cnblogs.com/big-devil/p/8590007.html
+https://blog.csdn.net/dengziliang001/article/category/6330880
+https://lwn.net/Articles/736534/
+
 
 journal block device 代码分析
 http://oenhan.com/ext3-jbd-journal

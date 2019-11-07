@@ -72,6 +72,11 @@ https://www.cnblogs.com/PengfeiSong/p/6443149.html
 emmc partion
 https://blog.csdn.net/wxh0000mm/article/details/80266533
 
+linux emmc framework
+https://www.cnblogs.com/smartjourneys/p/6723389.html
+http://www.wowotech.net/filesystem/329.html
+
+
 
 stm32f2 project
 https://blog.csdn.net/flydream0/article/details/8237311
