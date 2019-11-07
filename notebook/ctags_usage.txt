@@ -1,0 +1,16 @@
+ 熟练的使用ctags仅需记住下面几条命:
+
+1.$ ctags –R *    ($ 为Linux系统Shell提示符,创建tags文件)        
+2.$ vi –t tag       (请把tag替换为您欲查找的变量或函数名)        
+3.:ts                   (ts  助记字：tags list, “:”开头的命令为VI中命令行模式命令)        
+4.:tp                   (tp 助记字：tags preview)
+5.:tn                   (tn 助记字：tags next)
+6.Ctrl + ]            (跳转到定义处)
+7.Ctrl + T           (退回至跳转前)
+8.:ta x                (跳转到符号x的定义处，如果有多个符号，直接跳转到第一处
+9.:ts x                (列出符号x的定义)
+10.:tj x               (可以看做上面两个命令的合并，如果只找到一个符号定义，那么直接跳转到符号定义处，如果有多个，则让用户自行选择)
+
+注意：运行vim的时候，必须在“tags”文件所在的目录下运行。
+否则，运行vim的时候还要用“:set tag=”命令设定“tags”文件的路径（：set tag=/xxxx/xxxx/tags），这样vim才能找到“tags”文件。
+在完成编码时，可以手工删掉tags文件（帚把不到，灰尘不会自己跑掉）。也可以在$HOME/.vimrc或/etc/vim/vimrc中添加set tag=/xxx/xxx/tags，xxx为你tags的路径
