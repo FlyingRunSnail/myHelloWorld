@@ -53,3 +53,18 @@ https://bootlin.com/blog/managing-flash-storage-with-linux/
 
 UBI File-System
 http://www.linux-mtd.infradead.org/doc/ubifs.html
+
+how linux mount works,take ext2 mount as example
+when command "mount /dev/sda1 /mnt/" excute:
+sys_mount()
+  do_mount()
+    ...
+    do_new_mount()
+      vfs_kern_mount()
+         mount_fs()
+            [ext2_filesystem]->mount() 
+               ext2_mount()
+                  mount_bdev()
+                     sget()
+                     fill_super()
+refer to link: https://www.cnblogs.com/wanmeishenghuo/p/9286402.html
