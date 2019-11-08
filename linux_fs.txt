@@ -60,12 +60,13 @@ sys_mount()
   do_mount()
     ...
     do_new_mount()
-      vfs_kern_mount()
+      vfs_kern_mount()   -- return vfsmnt finally
+         alloc_vfsmnt()  -- alloc mount
          mount_fs()
             [ext2_filesystem]->mount() 
                ext2_mount()
-                  mount_bdev()
+                  mount_bdev() -- the last arg(fill_super) is specified fs depend
                      sget()
                      fill_super()
 refer to link: https://www.cnblogs.com/wanmeishenghuo/p/9286402.html
-               https://blog.csdn.net/zr_lang/article/month/2014/10
+               https://blog.csdn.net/zr_lang/article/month/2014/10 -- super NB
