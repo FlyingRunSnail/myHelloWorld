@@ -41,3 +41,6 @@ https://blog.csdn.net/luomoweilan/article/category/1830807
 
 64位Linux（ubuntu）安装、运行32位程序
 https://blog.csdn.net/kingroc/article/details/51143327
+
+Linux Lab
+http://cs.smith.edu/~nhowe/262/oldlabs/index.html
