@@ -1,0 +1,16 @@
+linux clock and time framework
+http://www.ibm.com/developerworks/cn/linux/l-cn-timerm/?spm=5176.100239.blogcont8890.5.47NCWO&S_TACT=105AGX52&S_CMP=reg-ccid
+http://www.ibm.com/developerworks/cn/linux/1307_liuming_linuxtime2/
+http://www.ibm.com/developerworks/cn/linux/1308_liuming_linuxtime3/
+https://www.ibm.com/developerworks/cn/linux/1308_liuming_linuxtime4/
+http://www.ibm.com/developerworks/cn/linux/kernel/interrupt/index.html
+http://www.ibm.com/developerworks/cn/linux/kernel/syscall/part1/appendix.html
+http://www.lai18.com/content/1013477.html
+http://www.cnblogs.com/hoys/archive/2012/02/21/2361675.html
+http://novoland.github.io/%E5%B9%B6%E5%8F%91/2014/07/26/%E5%AE%9A%E6%97%B6%E5%99%A8%EF%BC%88Timer%EF%BC%89%E7%9A%84%E5%AE%9E%E7%8E%B0.html
+http://www.cnblogs.com/zhanghairong/p/3757656.html
+http://www.cnblogs.com/fingerpass/p/linux-kernel-timer-in-game.html
+http://www.tuicool.com/articles/yeeua2n
+http://www.cppblog.com/expter/archive/2010/03/05/108977.aspx
+https://yq.aliyun.com/articles/8890
+https://blog.csdn.net/anonymalias/article/details/52022787
