@@ -1,0 +1,2 @@
+linux smp
+https://linux-kernel-labs.github.io/master/lectures/smp.html
