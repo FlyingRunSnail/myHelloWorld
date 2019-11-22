@@ -1,2 +1,3 @@
 linux smp
 https://linux-kernel-labs.github.io/master/lectures/smp.html
+https://elinux.org/images/0/00/Clement-smp-bring-up-on-arm-soc.pdf
