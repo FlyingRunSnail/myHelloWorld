@@ -1,2 +1,5 @@
 linux interrupt
 https://www.ibm.com/developerworks/cn/linux/l-cn-linuxkernelint/
+
+tasklet analysis
+http://blog.chinaunix.net/uid-28236237-id-3450753.html
