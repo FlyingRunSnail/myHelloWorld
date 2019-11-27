@@ -14,3 +14,6 @@ http://www.tuicool.com/articles/yeeua2n
 http://www.cppblog.com/expter/archive/2010/03/05/108977.aspx
 https://yq.aliyun.com/articles/8890
 https://blog.csdn.net/anonymalias/article/details/52022787
+
+an explain to timer wheel
+https://lwn.net/Articles/156329/
