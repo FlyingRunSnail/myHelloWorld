@@ -42,3 +42,6 @@ https://www.arm.com/zh/files/downloads/ARMv8_white_paper_v5.pdf
 
 arm32 dump_stack
 https://blog.csdn.net/jasonchen_gbd/article/details/45585133
+
+arm psci
+https://www.jianshu.com/p/aa7c30f2ed84
