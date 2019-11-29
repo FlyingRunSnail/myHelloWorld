@@ -33,6 +33,25 @@ https://blog.csdn.net/cs0301lm/article/details/41078599
 
 arm64 multi-core startup flow
 https://blog.csdn.net/qianlong4526888/article/details/27695173
+https://blog.csdn.net/liuhangtiant/article/details/84845448
+
+                    cpu0                         cpu1
+power_on:                  ---u-boot----                 ---u-boot---
+                    run.                          run.
+                    run.                          wfe(wait for event)
+                    run.                   
+                    run.   ----kernel----
+smp_init:           run.
+                    prepare()
+                     write cpu release addr
+                     sev()                        enter kernel secondary_xxx     ----kernel----
+                                                  wfe if cpu id is not equal
+                    boot()
+                     write cpu id
+                     sev()                        really run, idle task
+                    
+                    run.                          run.
+
 
 arm32 smp can not get kernel stack
 http://lkml.iu.edu/hypermail/linux/kernel/1311.2/00072.html
