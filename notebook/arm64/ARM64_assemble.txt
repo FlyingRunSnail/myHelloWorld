@@ -26,6 +26,13 @@
    CMP  ;比较指令，相当于SUBS，影响程序状态寄存器CPSR 
    B/BL  ;绝对跳转#imm， 返回地址保存到LR（X30）
    RET   ;子程序返回指令，返回地址默认保存在LR（X30）
+   ADRP ;是计算指定的数据地址到当前PC值的相对偏移
+         具体格式为:
+         ADRP  {cond}  Rd  label
+                       Rd为通用寄存器名称，比如x1,x2,...
+                       label为标号
+         整条指令的意思就是获取到label所在的页地址，然后存放在Rd寄存器中
+         具体案例参考:https://blog.csdn.net/liao392781/article/details/79162919
 
 
 3、X29永远指向当前函数调用栈的FP,上一个调用栈的FP为*FP，以此递归可以获取整个调用栈
