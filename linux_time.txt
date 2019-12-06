@@ -17,3 +17,6 @@ https://blog.csdn.net/anonymalias/article/details/52022787
 
 an explain to timer wheel
 https://lwn.net/Articles/156329/
+
+an introduct to hrtimer workflow
+https://blog.csdn.net/droidphone/article/month/2012/10
