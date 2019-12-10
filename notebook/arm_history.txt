@@ -1,0 +1,15 @@
+the history of arm
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ 架构          对应cpu               特性及应用领域
+ armv4         arm7                  无MMU，不能运行如linux等现代OS，主要当做MCU使用，如aduc7026。可运行uCOS，ucLinux等
+ armv5         arm9                  有MMU，可以跑linux，较armv4强，嵌入式cpu
+ armv6         arm11                 有MMU，可以跑linux，较armv5和armv4强，嵌入式cpu
+ armv7         cortex系列
+               cortex-a              主要用于应用，比如apple及android手机中的cpu，开始支持多核
+               cortex-r              主要用于实时性场景，目前未接触到
+               cortex-m              主要用于MCU，比如stm32系列，其中具体又分为cortex-m0, cortex-m3, cortex-m4以及更高的系列，其中cortex-m0+支持超低功耗
+ armv8                               从此开始arm进入64位时代，如果a53，a72等等，除指令外其他均位64位，并且兼容32位
+                                     与以往的7种异常模式有了巨大差异，仅存在4个特权等级，EL0、EL1、EL2、EL3，其中EL0为最低特权等级，对应linux用户态，EL1对应内核态
+
+TODO:
+
