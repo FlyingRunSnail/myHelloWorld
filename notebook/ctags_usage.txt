@@ -15,3 +15,11 @@
 注意：运行vim的时候，必须在“tags”文件所在的目录下运行。
 否则，运行vim的时候还要用“:set tag=”命令设定“tags”文件的路径（：set tag=/xxxx/xxxx/tags），这样vim才能找到“tags”文件。
 在完成编码时，可以手工删掉tags文件（帚把不到，灰尘不会自己跑掉）。也可以在$HOME/.vimrc或/etc/vim/vimrc中添加set tag=/xxx/xxx/tags，xxx为你tags的路径
+
+vim中split的使用
+https://www.cnblogs.com/bugutian/p/4498326.html
+
+1. vi打开文件
+2. split或者vsplit，此时会有另外一个窗口
+3. 在新窗口中:open file
+4. ctrl+w命令实现窗口间来回切换
