@@ -57,6 +57,11 @@ https://blog.csdn.net/mrwangwang/article/details/17394677
 qemu build arm development enviroment
 https://blog.csdn.net/jwq2011/article/details/54708529
 https://blog.csdn.net/qq_24188351/article/details/77891353
+introduce arm qemu build step by step
+https://www.cnblogs.com/microxiami/articles/9746979.html
+https://www.cnblogs.com/microxiami/p/11093241.html
+https://www.cnblogs.com/microxiami/p/11093276.html
+
 
 an introduce to eMMC
 https://wenku.baidu.com/view/30e483ba960590c69ec376d5.html
