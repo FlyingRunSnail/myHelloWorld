@@ -4,7 +4,7 @@ the history of arm
  armv4         arm7                  无MMU，不能运行如linux等现代OS，主要当做MCU使用，如aduc7026。可运行uCOS，ucLinux等
  armv5         arm9                  有MMU，可以跑linux，较armv4强，嵌入式cpu
  armv6         arm11                 有MMU，可以跑linux，较armv5和armv4强，嵌入式cpu
- armv7         cortex系列
+ armv7         cortex系列            开始引入虚拟化扩展和安全扩展，同时引入PL0、PL1和PL2
                cortex-a              主要用于应用，比如apple及android手机中的cpu，开始支持多核
                cortex-r              主要用于实时性场景，目前未接触到
                cortex-m              主要用于MCU，比如stm32系列，其中具体又分为cortex-m0, cortex-m3, cortex-m4以及更高的系列，其中cortex-m0+支持超低功耗
