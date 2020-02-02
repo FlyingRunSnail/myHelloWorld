@@ -1,3 +1,12 @@
+user space driver
+https://www.cnblogs.com/zafu/p/9038438.html
+
+dm9000 user space driver
+http://www.doc88.com/p-9912761259718.html
 
 user space ethernet driver introduce
 https://www.cnblogs.com/idorax/p/6945888.html
+
+ls1043 usdpaa maybe good
+http://www.forlinx.com/zixun/379.htm
+https://community.nxp.com/thread/452715
