@@ -430,3 +430,12 @@ linux idc
 https://linux.linuxidc.com/
 username:
 passwd:www.linuxidc.com
+
+
+//change linux eth interface without udev/reboot
+If you want to rename a network interface on Linux in an interactive manner without Udev and/or rebooting the machine, you can just do the following:
+
+ifconfig peth0 down
+ip link set peth0 name eth0
+ifconfig eth0 up
+Interface peth0 will be instantly renamed to eth0.
