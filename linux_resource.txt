@@ -439,3 +439,5 @@ ifconfig peth0 down
 ip link set peth0 name eth0
 ifconfig eth0 up
 Interface peth0 will be instantly renamed to eth0.
+
+http://kernelpanik.net/rename-a-linux-network-interface-without-udev/
