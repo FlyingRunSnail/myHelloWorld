@@ -61,3 +61,11 @@ for xshell
     1.1.1 keyboard and mouse
         1.1.1.1 edit
             1.1.1.1.1 new xxx map a key to break 
+
+vim顯示中文
+打開文件/etc/vimrc
+加入以下內容：
+set fileencodings=utf-8,ucs-bom,gb18030,gbk,gb2312,cp936
+set termencoding=utf-8
+set encoding=utf-8
+附原文鏈接：https://blog.csdn.net/weixin_36250487/article/details/79888103
