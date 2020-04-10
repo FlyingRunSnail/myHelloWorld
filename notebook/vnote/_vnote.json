@@ -8,6 +8,18 @@
     "sub_directories": [
         {
             "name": "20200410"
+        },
+        {
+            "name": "datasheet"
+        },
+        {
+            "name": "FPGA相關"
+        },
+        {
+            "name": "專業書籍"
+        },
+        {
+            "name": "國內軟件鏡像資源"
         }
     ],
     "version": "1"
