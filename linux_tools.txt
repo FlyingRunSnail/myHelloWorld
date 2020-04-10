@@ -69,3 +69,6 @@ set fileencodings=utf-8,ucs-bom,gb18030,gbk,gb2312,cp936
 set termencoding=utf-8
 set encoding=utf-8
 附原文鏈接：https://blog.csdn.net/weixin_36250487/article/details/79888103
+
+增加deepin wine for qq & wechat
+https://gitee.com/wszqkzqk/deepin-wine-for-ubuntu
