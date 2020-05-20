@@ -1,4 +1,3 @@
-vnote_backup_file_826537664 /home/huyong/Public/github/myHelloWorld/notebook/vnote/20200413/Markdown.md
 # Markdown
 ______
 Markdown 是一种轻量级标记语言，它允许人们使用易读易写的纯文本格式编写文档 <br>

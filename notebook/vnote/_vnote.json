@@ -7,22 +7,43 @@
     "recycle_bin_folder": "_v_recycle_bin",
     "sub_directories": [
         {
-            "name": "20200410"
+            "name": "vnote&markdown"
         },
         {
             "name": "datasheet"
         },
         {
-            "name": "FPGA相關"
+            "name": "FPGA相关"
         },
         {
-            "name": "專業書籍"
+            "name": "专业书籍"
         },
         {
-            "name": "國內軟件鏡像資源"
+            "name": "国内软件镜像资源"
         },
         {
-            "name": "20200413"
+            "name": "日常工作记录"
+        },
+        {
+            "name": "编译调试打包"
+        },
+        {
+            "name": "版本管理工具"
+        },
+        {
+            "name": "中频业务相关"
+        },
+        {
+            "name": "专业基础知识"
+        },
+        {
+            "name": "文本编辑工具使用"
+        },
+        {
+            "name": "电脑外设工具"
+        },
+        {
+            "name": "网络业务相关"
         }
     ],
     "version": "1"
