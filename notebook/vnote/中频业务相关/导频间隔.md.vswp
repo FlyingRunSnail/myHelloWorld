@@ -1,0 +1,16 @@
+vnote_backup_file_826537664 /home/huyong/Public/github/myHelloWorld/notebook/vnote/中频业务相关/导频间隔.md
+# 导频间隔
+----
+1.D系列导频间隔换算表 <br>
+|FEC Type| BW/sp < 100KHz | 100 <= BW/sp < 500 | BW/sp >= 500|备注|
+|----|----|----|----|----|
+|TURBO|0|1|2|-|
+|LDPC|-|2|3|扩频因子为８时，固定为２|
+
+2.E系列导频间隔换算表 <br>
+|FEC Type| BW < 100KHz | 100 <= BW < 500 | BW >= 500|备注|
+|----|----|----|----|----|
+|TURBO|0|1|2|-|
+|LDPC|-|2|3|-|
+
+3.V2R1版本，逻辑按照Ｄ系列方式实现，底层配置时与Ｄ系列保持一致 <br>
