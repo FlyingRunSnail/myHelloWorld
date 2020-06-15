@@ -1,0 +1,5 @@
+Go for VM escape!
+https://dangokyo.me/2018/03/02/go-for-vm-escape/
+
+Kernelgo's KVM学习笔记
+https://luohao-brian.gitbooks.io/interrupt-virtualization/content/
